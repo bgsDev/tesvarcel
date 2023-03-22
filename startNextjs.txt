@@ -1,0 +1,2 @@
+npm i -g create-next-app resto
+npm install prop-types
